@@ -1,0 +1,61 @@
+Order ID,Customer Name,Category,Sub-Category,Region,Sales,Quantity,Profit,Order Date
+1001,Priya,Furniture,Desk,North,1800,4,199.26,2026-01-04
+1002,Ravi,Furniture,Desk,South,500,1,50.31,2026-01-08
+1003,Ravi,Office Supplies,Paper,West,7500,7,963.73,2026-01-19
+1004,Arjun,Furniture,Chair,South,3500,5,399.72,2026-01-25
+1005,Ananya,Furniture,Chair,South,800,6,213.16,2026-01-20
+1006,Arjun,Furniture,Desk,South,7500,2,2205.64,2026-01-13
+1007,Priya,Office Supplies,Pen,North,9000,4,2115.05,2026-01-02
+1008,Sneha,Technology,Laptop,West,800,7,112.92,2026-01-21
+1009,Ananya,Furniture,Table,North,1800,5,421.92,2026-01-22
+1010,Priya,Office Supplies,Notebook,West,7500,4,869.61,2026-01-13
+1011,Arjun,Office Supplies,Notebook,West,3500,1,456.37,2026-02-02
+1012,Ananya,Technology,Phone,East,1800,10,491.04,2026-02-11
+1013,Sneha,Office Supplies,Pen,South,6000,3,829.64,2026-02-08
+1014,Ravi,Office Supplies,Pen,South,9000,7,1436.75,2026-02-05
+1015,Ravi,Technology,Laptop,East,800,3,174.43,2026-02-26
+1016,Vikram,Office Supplies,Paper,South,4500,10,1346.16,2026-02-17
+1017,Arjun,Office Supplies,Paper,East,7500,5,1868.19,2026-02-11
+1018,Priya,Technology,Phone,West,6000,1,1739.04,2026-02-24
+1019,Arjun,Office Supplies,Paper,East,2500,9,534.93,2026-02-05
+1020,Ananya,Furniture,Desk,East,9000,6,1687.44,2026-02-04
+1021,Ananya,Technology,Laptop,East,1800,10,518.99,2026-03-03
+1022,Pooja,Furniture,Desk,West,1200,8,345.97,2026-03-06
+1023,Arjun,Office Supplies,Notebook,South,1800,9,443.09,2026-03-23
+1024,Sneha,Office Supplies,Pen,South,3500,8,972.7,2026-03-15
+1025,Priya,Furniture,Chair,East,3500,1,733.0,2026-03-08
+1026,Meena,Furniture,Chair,East,500,4,47.41,2026-03-02
+1027,Ananya,Furniture,Desk,West,2500,8,317.83,2026-03-05
+1028,Meena,Office Supplies,Pen,West,6000,7,731.34,2026-03-04
+1029,Vikram,Technology,Phone,South,6000,1,1368.84,2026-03-21
+1030,Priya,Furniture,Table,North,800,4,97.72,2026-03-18
+1031,Pooja,Furniture,Table,West,2500,8,337.39,2026-04-03
+1032,Pooja,Office Supplies,Paper,East,7500,1,2198.84,2026-04-25
+1033,Sneha,Furniture,Table,South,6000,4,1621.34,2026-04-02
+1034,Kiran,Technology,Laptop,South,2500,8,356.89,2026-04-23
+1035,Ravi,Office Supplies,Notebook,South,1200,4,174.33,2026-04-02
+1036,Meena,Office Supplies,Notebook,East,3500,1,318.61,2026-04-16
+1037,Ravi,Office Supplies,Paper,East,7500,2,2004.72,2026-04-03
+1038,Meena,Furniture,Desk,West,4500,2,1292.18,2026-04-19
+1039,Sneha,Office Supplies,Notebook,East,9000,2,1550.07,2026-04-19
+1040,Meena,Office Supplies,Pen,North,1800,6,238.52,2026-04-13
+1041,Kiran,Office Supplies,Notebook,North,6000,6,1706.3,2026-05-03
+1042,Rahul,Technology,Monitor,East,800,9,101.52,2026-05-09
+1043,Kiran,Technology,Laptop,West,3500,5,401.47,2026-05-18
+1044,Arjun,Office Supplies,Notebook,East,7500,5,2137.4,2026-05-04
+1045,Kiran,Technology,Laptop,East,7500,3,1049.37,2026-05-20
+1046,Sneha,Office Supplies,Pen,West,2500,9,468.69,2026-05-02
+1047,Priya,Office Supplies,Pen,North,500,1,76.69,2026-05-05
+1048,Arjun,Furniture,Desk,South,7500,7,1525.5,2026-05-04
+1049,Priya,Office Supplies,Paper,East,3500,10,705.44,2026-05-14
+1050,Kiran,Furniture,Table,North,500,6,63.11,2026-05-08
+1051,Priya,Technology,Monitor,South,9000,3,2553.01,2026-06-08
+1052,Kiran,Furniture,Table,East,1200,6,302.55,2026-06-14
+1053,Sneha,Technology,Laptop,East,4500,1,1210.01,2026-06-08
+1054,Sneha,Technology,Phone,North,1800,4,153.37,2026-06-07
+1055,Vikram,Technology,Phone,East,2500,6,552.81,2026-06-13
+1056,Ravi,Technology,Laptop,East,2500,3,519.32,2026-06-09
+1057,Rahul,Furniture,Desk,South,3500,6,616.02,2026-06-17
+1058,Priya,Technology,Monitor,West,2500,1,589.83,2026-06-01
+1059,Ravi,Office Supplies,Notebook,West,3500,7,333.88,2026-06-22
+1060,Ananya,Office Supplies,Pen,East,2500,9,370.11,2026-06-14
